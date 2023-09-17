@@ -6,8 +6,9 @@
 
 <br>
 
-`Prettier` <br>
-`ESLint` <br>
-`import 절대경로` <br>
-`폴더구조` <br>
-`styled-component 세팅` <br>
+```
+ESLint
+Prettier
+import 절대경로
+styled-component
+```
